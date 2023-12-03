@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
+        testFont: ["Big Shoulders Display"],
         lexenddeca: ["Lexend Deca"],
-        bigshouldersdisplay: ["Big Shoulders Display"],
       },
     },
   },
