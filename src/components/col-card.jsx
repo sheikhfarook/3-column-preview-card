@@ -27,7 +27,7 @@ const ColCard = () => {
     },
   ];
   return (
-    <div className="flex flex-row max-sm:flex-col w-[25rem] max-sm:m-auto max-sm:items-center m-auto mt-[15%]  justify-center">
+    <div className="flex flex-row max-sm:flex-col w-[25rem] max-sm:m-auto max-sm:items-center m-auto my-[15rem]  justify-center">
       {cards?.map((preview, index) => (
         <div
           key={preview?.id}

@@ -1,4 +1,4 @@
-// import "./App.css";
+import "./App.css";
 import ColCard from "./components/col-card";
 
 function App() {
